@@ -5,7 +5,7 @@ export default function Home() {
     "headline": "AutoFinetuner | Premium One-Liner LLM Fine-Tuning & QLoRA Library",
     "description": "AutoFinetuner is a zero-boilerplate, highly optimized Python library for LLM fine-tuning with QLoRA/LoRA on consumer hardware. Natively tune Qwen, Llama 3, Phi-3, and Gemma.",
     "inLanguage": "en",
-    "mainEntityOfPage": "https://autofinetuner.dev",
+    "mainEntityOfPage": "https://asishkumardalal.github.io/auto-finetuner-docs",
     "author": {
       "@type": "Organization",
       "name": "AutoFinetuner Team"

@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "AutoFinetuner | Zero-Boilerplate LLM Fine-Tuning Library",
     description: "Orchestrate high-performance QLoRA fine-tuning in a single line of code. Auto-detects templates, optimizes VRAM usage, and streamlines data pipelines for modern LLMs.",
-    url: "https://autofinetuner.dev",
+    url: "https://asishkumardalal.github.io/auto-finetuner-docs",
     siteName: "AutoFinetuner",
     locale: "en_US",
     type: "website",

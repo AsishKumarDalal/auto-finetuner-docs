@@ -3,7 +3,7 @@ import { MetadataRoute } from 'next';
 export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://autofinetuner.dev'; // Replace with actual production domain when deployed
+  const baseUrl = 'https://asishkumardalal.github.io/auto-finetuner-docs'; // Replace with actual production domain when deployed
   return [
     {
       url: baseUrl,
