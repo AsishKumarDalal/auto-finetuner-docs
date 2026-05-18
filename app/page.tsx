@@ -115,7 +115,7 @@ print(finetuner.generate("Explain quantum computing"))`}</code></pre>
         <ul>
           <li><strong>Alpaca Style:</strong> <code>{`{"instruction": "...", "input": "...", "output": "..."}`}</code></li>
           <li><strong>Chat Style:</strong> <code>{`{"conversations": [{"role": "user", "content": "..."}, ...]}`}</code></li>
-          <li><strong>Raw Text Style:</strong> <code>{`{"text": "..."}`} or plain .txt files</li>
+          <li><strong>Raw Text Style:</strong> <code>{`{"text": "..."}`}</code> or plain <code>.txt</code> files</li>
         </ul>
         <p>When using <code>finetune_quick</code>, supply data via:</p>
         <ol>
